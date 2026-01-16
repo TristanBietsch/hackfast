@@ -1,0 +1,21 @@
+- blink.cmp
+- fidget.nvim
+- gitsigns.nvim
+- guess-indent.nvim
+- lazy.nvim
+- lazydev.nvim
+- LuaSnip
+- mason-lspconfig.nvim
+- mason-tool-installer.nvim
+- mason.nvim
+- mini.nvim
+- nvim-lspconfig
+- nvim-treesitter
+- plenary.nvim
+- telescope-fzf-native.nvim
+- telescope-ui-select.nvim
+- telescope.nvim
+- todo-comments.nvim
+- tokyonight.nvim
+- which-key.nvim
+

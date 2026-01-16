@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "77ae9b50778295ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "975027f7a0653892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec724cb2b2e3c567",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbff1b0537116093",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76f81064efb5dbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e9875ec69c70cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "112fcef6851c8d82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "fc59307809501f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "944c567e60a73996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b993a007fc6d60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "251238f35e2c1b2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "db498bf85f6d63bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0f6705ab537c5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b0e9875ec69c70cf",
+  "lastOpenFiles": [
+    "1. Projects/hackfast/docs/windows.md",
+    "1. Projects/hackfast/docs/setup & install.md",
+    "1. Projects/hackfast/docs/cmds/nvim.md",
+    "1. Projects/hackfast/nvim.md",
+    "1. Projects/hackfast/todo.md",
+    "1. Projects/hackfast/docs/intro.md",
+    "1. Projects/hackfast/docs/automations.md",
+    "1. Projects/hackfast/docs/workflows/stowing dotfiles.md",
+    "1. Projects/hackfast/docs/cmds/aerospace.md",
+    "1. Projects/hackfast/docs/cmds/apple mail.md",
+    "1. Projects/bank reachout/anthony action itesm.md",
+    "1. Projects/bank reachout/todo.md",
+    "1. Projects/personal-branding",
+    "seq.md",
+    "sequence 1.md",
+    "sequence.md",
+    "1. Projects/glenn-meeting/notes.md",
+    "ToDo.md",
+    "1. Projects/glenn-meeting",
+    "emial.md",
+    "1. Projects/bank reachout/plan.md",
+    "1. Projects/preseed/Untitled.md",
+    "1. Projects/bank reachout/metrics.md",
+    "1. Projects/bank reachout/icp profiles.md",
+    "1. Projects/bank reachout/icp interview questions.md",
+    "1. Projects/writer-agent/article structure.md",
+    "2. Areas/Business Dev/Business Outline Doc/Research Materials.md",
+    "2. Areas/Business Dev/Business Outline Doc/Competition.png",
+    "2. Areas/Legal/Certificate of Incorporation.pdf",
+    "1. Projects/writer-agent/wedge.md",
+    "1. Projects/writer-agent",
+    "1. Projects/bank reachout/emails",
+    "1. Projects/bank reachout",
+    "1. Projects/hackfast/docs/apps",
+    "1. Projects/hackfast/docs/workflows",
+    "1. Projects/hackfast/docs/cmds",
+    "1. Projects/intro meeting",
+    "4. Archive/cto-cofounder/profiles/cto/CleanShot 2025-10-23 at 11.44.23@2x.png",
+    "2. Areas/Branding/Moodboard.canvas",
+    "4. Archive/Canvas Images/Pasted image 20251014135832.png"
+  ]
+}

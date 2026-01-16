@@ -1,0 +1,10 @@
+{
+  "accentColor": "#3b6ac9",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "black"
+  ],
+  "translucency": true,
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "theme": "obsidian"
+}
