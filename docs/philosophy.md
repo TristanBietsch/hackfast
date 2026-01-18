@@ -1,15 +1,10 @@
+# Philosophy
+
 ## Core Principle
 
 Remove friction between thought and execution.
 Every interface interaction should be keyboard-first.
 Minimize hand movement and context switching.
-
-## Motivation
-
-Modern interfaces optimize for pointing devices.
-They fragment attention through small, frequent interactions.
-During focused work, these interruptions break flow.
-Reaching for a mouse, switching context, or breaking hand position introduces friction.
 
 ## Approach
 

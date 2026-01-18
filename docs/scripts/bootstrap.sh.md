@@ -1,20 +1,22 @@
-Bootstrap script automates initial setup.
-It installs all tools and configurations.
-Run once on a fresh system to get started.
+# Bootstrap Script
+
+Automates initial setup.
+Installs all tools and configurations.
+Run once on a fresh system.
 
 ## Purpose
 
-Install all tools listed in `docs/setup & install.md`.
+Install all tools listed in [docs/setup.md](../setup.md).
 Configure system settings.
 Set up dotfiles via GNU Stow.
 Reduce manual setup steps to zero.
 
 ## Prerequisites
 
-macOS system.
-Homebrew installed.
-Git installed.
-Terminal access.
+- macOS system
+- Homebrew installed
+- Git installed
+- Terminal access
 
 ## Usage
 
@@ -23,6 +25,7 @@ Terminal access.
 ```
 
 The script will:
+
 1. Install Homebrew packages (if not already installed)
 2. Install GUI applications via Homebrew Cask
 3. Clone dotfiles repository
@@ -32,7 +35,8 @@ The script will:
 
 ## What It Installs
 
-All tools from `docs/setup & install.md`:
+All tools from [docs/setup.md](../setup.md):
+
 - GUIs: Aerospace, Ghostty, Obsidian, Raycast, Shortcat, etc.
 - TUIs: nvim, tmux, ranger, lsd, gnu-stow, etc.
 - System tools: Karabiner Elements, etc.
