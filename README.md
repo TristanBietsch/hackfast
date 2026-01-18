@@ -19,6 +19,8 @@ No mouse required.
 
 ## Documentation
 
+These docs are meant to be cloned and opened in [Obsidian](https://obsidian.md) for easy navigation.
+
 - [Introduction](docs/intro.md) — motivation and goals
 - [Philosophy](docs/philosophy.md) — core principles
 - [Prerequisites](docs/prerequisites.md) — what you need before starting
