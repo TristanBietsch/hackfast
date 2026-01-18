@@ -159,6 +159,7 @@
   },
   "active": "9c28fa31c9d59706",
   "lastOpenFiles": [
+    "docs/setup/freebsd.md",
     "docs/agents/claude-cowork.md",
     "docs/agents",
     "agents",
@@ -192,7 +193,6 @@
     "docs/scripts",
     "docs/plugins/nvim.md",
     "docs/plugins/Untitled.md",
-    "Untitled.md",
     "docs/plugins",
     "1. Projects/personal-branding",
     "2. Areas/Business Dev/Business Outline Doc/Competition.png",
