@@ -1,9 +1,10 @@
+## General
+- [ ] make script for running all brew installs
 ### Mac / system wide settings
 - [ ] mouse scroll speed
 
 ### Docs
 - [ ] write docs on how to use - break it up by plugin (inside of dotfiles)
-- [ ] 
 ### nvim
 - [ ] cmd line for : cmds is not on the bottom, make it center
 - [ ] stylua.toml

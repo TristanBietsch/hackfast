@@ -15,6 +15,7 @@ vim everywhere
 
 The name reflects the intent:
 work faster by removing unnecessary barriers between you and your work.
+hacking your mac to work faster
 
 this will work for both mac and linux distros, but the focus here is using macos.
 
@@ -81,6 +82,8 @@ What was missing was a coherent, learnable system that ties everything together.
 The goal of this repository is to provide a practical path to a keyboard-only workflow:
 
 - Minimal hand movement
+- Minimal thinking
+- Maxiumim flying
 - No dependency on a mouse or trackpad
 - Predictable, composable shortcuts
 - Fast to set up

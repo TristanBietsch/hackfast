@@ -1,0 +1,2 @@
+- you know vim
+- you are technical

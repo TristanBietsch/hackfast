@@ -1,6 +1,9 @@
-using aerospace, these apps are always parked here all of the time. 
-using my keyboard, i press `leader + num` where num is the number on my keyboard
+Aerospace manages window workspaces.
+Each workspace is bound to a number key.
+Press `leader + num` to switch to that workspace.
+Apps are parked in specific workspaces for quick access.
 
+## Workspace Layout
 
 | num | app                      | workspace                                   |     |
 | --- | ------------------------ | ------------------------------------------- | --- |
@@ -15,10 +18,14 @@ using my keyboard, i press `leader + num` where num is the number on my keyboard
 | 9   | spotify / ncspot         | music                                       |     |
 | 0   | zen                      | internet browser                            |     |
 
-tmux is for dev work only
+Workspace 2 is dedicated to development.
+It typically runs:
+- tmux for terminal multiplexing
+- nvim for editing
+- ranger for file navigation
+- btop for system monitoring
+- ollama or opencode for AI assistance
+- scratch buffers for quick notes
 
-btop
-nvim
-ranger (find)
-ollama OR opencode
-scratch
+tmux is used only for dev work.
+Other workspaces use native application windows.

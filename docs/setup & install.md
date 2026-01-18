@@ -13,6 +13,7 @@
 | ollama             | GUI & TUI offline LLMS        | https://ollama.com                       | https://github.com/ollama/ollama              |
 | raycast            | Launcher and automation tool  | https://raycast.com                      | https://manual.raycast.com                    |
 | shortcat           | Keyboard pointer launcher     | https://shortcat.app                     | https://shortcat.app/docs                     |
+| utm                | Virtualization platform       | https://mac.getutm.app                   | https://docs.getutm.app                       |
 | vimium             | Vim keys for web browsing     | https://vimium.github.io                 | https://github.com/philc/vimium/wiki          |
 | zen-arc-browser    | Minimal or alt web browsers   | https://zen-browser.app                  | https://docs.zen-browser.app                  |
 
