@@ -15,6 +15,32 @@ Some terminal emulators have independent scroll settings.
 Ghostty allows per-terminal scroll configuration.
 Match terminal scroll speed to system scroll speed for consistency.
 
+## Key Repeat Rate
+
+Faster key repeat makes vim navigation (hjkl) feel responsive.
+Affects all apps using key repeat, including Vim, Neovim, terminal UIs.
+
+### Method 1 — System Settings (GUI)
+
+System Settings → Keyboard.
+Set **Key repeat rate** → Fast.
+Set **Delay until repeat** → Short.
+
+### Method 2 — Defaults (CLI, precise)
+
+```bash
+defaults write -g InitialKeyRepeat -int 10
+defaults write -g KeyRepeat -int 1
+```
+
+Lower = faster.
+Typical ranges:
+
+- `InitialKeyRepeat`: 10–15
+- `KeyRepeat`: 1–2
+
+Logout/login required.
+
 ## Philosophy
 
 Scroll speed is a friction point.
