@@ -1,6 +1,6 @@
 # hackfast
 
-A keyboard-first macOS workflow.
+A keyboard-first macOS distro.
 Remove friction between thought and execution.
 
 ## What It Is
