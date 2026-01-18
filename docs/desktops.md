@@ -16,7 +16,7 @@ Apps are parked in specific workspaces for quick access.
 | 5   |                          | reserved            |
 | 6   | fantastical + todoist    | calendar and tasks  |
 | 7   | mail                     | email               |
-| 8   |                          | reserved            |
+| 8   | beeper                   | messages            |
 | 9   | spotify / ncspot         | music               |
 | 0   | zen                      | browser             |
 

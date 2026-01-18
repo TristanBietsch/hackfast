@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "docs/desktops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "desktops"
             }
           }
         ],
@@ -159,19 +159,23 @@
   },
   "active": "9c28fa31c9d59706",
   "lastOpenFiles": [
+    "docs/agents/claude-cowork.md",
+    "docs/agents",
+    "agents",
+    "docs/setup/qemu.md",
+    "docs/dotfiles.md",
+    "docs/intro.md",
+    "docs/philosophy.md",
     "docs/setup.md",
+    "docs/prerequisites.md",
+    "TODO.md",
     "LICENSE",
     "README.md",
-    "docs/philosophy.md",
-    "TODO.md",
-    "docs/intro.md",
-    "docs/prerequisites.md",
     "docs/setup & install.md",
     "docs/settings/scroll-speed.md",
     "docs/setup/openbsd.md",
     "docs/setup/utm.md",
     "docs/setup",
-    "docs/dotfiles.md",
     "docs/desktops.md",
     "docs/prereqisites.md",
     "docs/workflows",
@@ -186,14 +190,11 @@
     "docs/philosphy.md",
     "docs/automations.md",
     "docs/scripts",
-    "docs/agents",
     "docs/plugins/nvim.md",
     "docs/plugins/Untitled.md",
     "Untitled.md",
     "docs/plugins",
-    "1. Projects/hackfast/docs/windows.md",
     "1. Projects/personal-branding",
-    "1. Projects/glenn-meeting",
     "2. Areas/Business Dev/Business Outline Doc/Competition.png",
     "4. Archive/cto-cofounder/profiles/cto/CleanShot 2025-10-23 at 11.44.23@2x.png",
     "2. Areas/Branding/Moodboard.canvas",
