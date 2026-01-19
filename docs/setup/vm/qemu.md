@@ -1,4 +1,6 @@
-QEMU is a terminal-based virtualization tool. once you're comfortable with UTM, you can use QEMU directly for more control and scriptability. UTM is actually a GUI wrapper around QEMU.
+QEMU is a terminal-based virtualization tool.
+once comfortable with UTM, use QEMU directly for more control.
+UTM is actually a GUI wrapper around QEMU.
 
 ---
 
@@ -10,7 +12,7 @@ brew install qemu
 
 ---
 
-## basic usage
+## usage
 
 ```bash
 # create a disk image
@@ -34,7 +36,7 @@ qemu-system-aarch64 -machine virt -cpu host -accel hvf \
 
 - use `qemu-system-aarch64` for arm64, `qemu-system-x86_64` for x86
 - `-accel hvf` enables hardware virtualization on macOS
-- much more flexible for automation and headless VMs
+- more flexible for automation and headless VMs
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/desktops.md",
+                "file": "docs/setup/vm/freebsd-install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "desktops"
+              "title": "freebsd-install"
             }
           }
         ],
@@ -159,6 +159,15 @@
   },
   "active": "9c28fa31c9d59706",
   "lastOpenFiles": [
+    "TODO.md",
+    "docs/setup/vm/freebsd-ssh.md",
+    "docs/setup/vm/freebsd-install.md",
+    "docs/setup/vm/utm.md",
+    "docs/setup/vm/qemu.md",
+    "docs/setup/vm/freebsd.md",
+    "docs/setup/vm",
+    "ideas.md",
+    "docs/desktops.md",
     "docs/setup/freebsd.md",
     "docs/agents/claude-cowork.md",
     "docs/agents",
@@ -169,7 +178,6 @@
     "docs/philosophy.md",
     "docs/setup.md",
     "docs/prerequisites.md",
-    "TODO.md",
     "LICENSE",
     "README.md",
     "docs/setup & install.md",
@@ -177,7 +185,6 @@
     "docs/setup/openbsd.md",
     "docs/setup/utm.md",
     "docs/setup",
-    "docs/desktops.md",
     "docs/prereqisites.md",
     "docs/workflows",
     "docs/workflows/stowing dotfiles.md",
@@ -185,16 +192,9 @@
     "docs/keybinds/apple mail.md",
     "docs/cmds/brew.md",
     "docs/keybinds/aerospace.md",
-    "docs/scripts/bootstrap.sh.md",
-    "docs/settings/scroll speed.md",
     "docs/settings",
-    "docs/philosphy.md",
-    "docs/automations.md",
     "docs/scripts",
-    "docs/plugins/nvim.md",
-    "docs/plugins/Untitled.md",
     "docs/plugins",
-    "1. Projects/personal-branding",
     "2. Areas/Business Dev/Business Outline Doc/Competition.png",
     "4. Archive/cto-cofounder/profiles/cto/CleanShot 2025-10-23 at 11.44.23@2x.png",
     "2. Areas/Branding/Moodboard.canvas",

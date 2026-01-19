@@ -1,4 +1,5 @@
-UTM is a virtualization app for macOS. use it to run other operating systems (linux, bsd, windows) in a VM.
+UTM is a virtualization app for macOS.
+run other operating systems (linux, bsd, windows) in a VM.
 
 ---
 
@@ -16,7 +17,7 @@ or download from https://mac.getutm.app
 
 1. open UTM
 2. click `+` to create new VM
-3. choose **Virtualize** (for arm64 guests) or **Emulate** (for x86 guests)
+3. choose **Virtualize** (arm64 guests) or **Emulate** (x86 guests)
 4. select OS type or use custom ISO
 5. configure RAM, CPU cores, storage
 6. attach ISO to boot drive
@@ -30,11 +31,10 @@ or download from https://mac.getutm.app
 - arm64 macs can virtualize arm64 linux/bsd natively
 - for x86 guests (most linux distros, windows), use **Emulate**
 - shared directories: Settings > Sharing > enable Directory Sharing
-- clipboard sharing: install spice guest tools in the VM
 
 ---
 
-## keyboard shortcuts
+## keybinds
 
 | cmd              | action                |
 | ---------------- | --------------------- |
