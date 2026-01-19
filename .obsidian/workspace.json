@@ -11,14 +11,10 @@
             "id": "40f4ba7651f51a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/setup/vm/freebsd-setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "freebsd-setup"
+              "title": "New tab"
             }
           }
         ],
@@ -159,8 +155,12 @@
   },
   "active": "40f4ba7651f51a89",
   "lastOpenFiles": [
-    "docs/setup/vm/freebsd",
+    "docs/setup/vm/arch",
+    "docs/setup/vm/freebsd/freebsd-ssh.md",
     "docs/setup/vm/freebsd-setup.md",
+    "docs/setup/vm/freebsd/freebsd-setup.md",
+    "docs/setup/vm/freebsd/freebsd-install.md",
+    "docs/setup/vm/freebsd",
     "docs/setup.md",
     "docs/intro.md",
     "docs/prerequisites.md",
@@ -187,14 +187,10 @@
     "docs/setup/openbsd.md",
     "docs/setup/utm.md",
     "docs/setup",
-    "docs/prereqisites.md",
     "docs/workflows",
-    "docs/workflows/stowing dotfiles.md",
     "docs/settings/macOS",
-    "docs/keybinds/apple mail.md",
     "docs/settings",
     "docs/scripts",
-    "docs/plugins",
     "2. Areas/Business Dev/Business Outline Doc/Competition.png",
     "4. Archive/cto-cofounder/profiles/cto/CleanShot 2025-10-23 at 11.44.23@2x.png",
     "2. Areas/Branding/Moodboard.canvas",
