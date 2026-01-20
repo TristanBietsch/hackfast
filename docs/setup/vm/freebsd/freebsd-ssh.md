@@ -8,7 +8,7 @@ start VM from terminal, SSH in, no window.
 ## prerequisites
 
 - UTM installed
-- FreeBSD VM working (see [[freebsd-install]])
+- FreeBSD VM working (see [freebsd-install](freebsd-install.md))
 - sshd enabled (`sshd_enable="YES"` in `/etc/rc.conf`)
 
 ---

@@ -43,7 +43,7 @@ That said, here's why hackfast exists:
 ## Best of Both Worlds
 
 Want a real Unix environment?
-Run [OpenBSD in a VM](setup/openbsd.md) via UTM.
+Run [FreeBSD in a VM](setup/vm/freebsd/freebsd-install.md) via UTM.
 SSH in from your terminal.
 Get the purity of Unix when you need it, macOS as your daily driver.
 

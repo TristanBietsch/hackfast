@@ -146,4 +146,4 @@ use the **installer**, not VM images.
 - UEFI + GPT + UFS
 - VirtIO disk + network
 - sshd enabled
-- next: set up SSH access → see [[setup/vm/freebsd-ssh|freebsd-ssh]]
+- next: set up SSH access → see [freebsd-ssh](freebsd-ssh.md)

@@ -6,8 +6,8 @@ part 3: VM installed, SSH working, now configure dev environment.
 
 ## prerequisites
 
-- FreeBSD installed (see [[setup/vm/freebsd-install|freebsd-install]])
-- SSH working (see [[setup/vm/freebsd-ssh|freebsd-ssh]])
+- FreeBSD installed (see [freebsd-install](freebsd-install.md))
+- SSH working (see [freebsd-ssh](freebsd-ssh.md))
 - logged in as your user
 
 ---
