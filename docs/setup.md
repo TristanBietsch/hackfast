@@ -24,15 +24,15 @@ Install via Homebrew or download directly.
 
 ## TUIs
 
-| tool         | desc                       | download                                 | docs                                         | alias    |
-| ------------ | -------------------------- | ---------------------------------------- | -------------------------------------------- | -------- |
-| btop         | resource monitor dashboard | https://github.com/aristocratos/btop     | https://github.com/aristocratos/btop#usage   | top      |
-| fast         | terminal internet speed    | https://github.com/sindresorhus/fast-cli | https://github.com/sindresorhus/fast-cli     | speed    |
-| gnu-stow     | dotfiles symlink manager   | https://www.gnu.org/software/stow        | https://www.gnu.org/software/stow/manual     | stow     |
-| lsd          | modern ls with icons       | https://github.com/lsd-rs/lsd            | https://github.com/lsd-rs/lsd#installation   | ls       |
-| nvim         | modal text/code editor     | https://neovim.io                        | https://neovim.io/doc                        | vim      |
-| obsidian-cli | terminal-based obsidian    | https://github.com/Yakitrak/obsidian-cli | https://github.com/Yakitrak/obsidian-cli     | obsidian |
-| opencode     | TUI LLM runner             | https://opencode.ai/                     | https://opencode.ai/docs                     | ai       |
-| ranger       | vim-style file manager     | https://github.com/ranger/ranger         | https://github.com/ranger/ranger/wiki        | files    |
-| tmux         | terminal multiplexer       | https://github.com/tmux/tmux             | https://github.com/tmux/tmux/wiki            | tmux     |
-| w3m          | TUI browser                | https://github.com/tats/w3m              | http://w3m.sourceforge.net/MANUAL            | web      |
+| tool         | desc                       | download                                 | docs                                       | alias    |
+| ------------ | -------------------------- | ---------------------------------------- | ------------------------------------------ | -------- |
+| btop         | resource monitor dashboard | https://github.com/aristocratos/btop     | https://github.com/aristocratos/btop#usage | top      |
+| fast         | terminal internet speed    | https://github.com/sindresorhus/fast-cli | https://github.com/sindresorhus/fast-cli   | speed    |
+| gnu-stow     | dotfiles symlink manager   | https://www.gnu.org/software/stow        | https://www.gnu.org/software/stow/manual   | stow     |
+| lsd          | modern ls with icons       | https://github.com/lsd-rs/lsd            | https://github.com/lsd-rs/lsd#installation | ls       |
+| nvim         | modal text/code editor     | https://neovim.io                        | https://neovim.io/doc                      | vim      |
+| obsidian-cli | terminal-based obsidian    | https://github.com/Yakitrak/obsidian-cli | https://github.com/Yakitrak/obsidian-cli   | obsidian |
+| opencode     | TUI LLM runner             | https://opencode.ai/                     | https://opencode.ai/docs                   | ai       |
+| ranger       | vim-style file manager     | https://github.com/ranger/ranger         | https://github.com/ranger/ranger/wiki      | files    |
+| tmux         | terminal multiplexer       | https://github.com/tmux/tmux             | https://github.com/tmux/tmux/wiki          | tmux     |
+| w3m          | TUI browser                | https://github.com/tats/w3m              | http://w3m.sourceforge.net/MANUAL          | web      |
