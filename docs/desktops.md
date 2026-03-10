@@ -13,11 +13,11 @@ Apps are parked in specific workspaces for quick access.
 | 2   | ghostty               | dev                |
 | 3   | cursor                | light work         |
 | 4   | chatgpt + claude      | ai tools           |
-| 5   | UTM                   | reserved           |
+| 5   |                       |                    |
 | 6   | fantastical + todoist | calendar and tasks |
 | 7   | mail                  | email              |
-| 8   | beeper                | messages           |
-| 9   | spotify / ncspot      | music              |
+| 8   |                       |                    |
+| 9   | ncspot / rmpc         | music              |
 | 0   | zen                   | browser            |
 
 ## Dev Workspace
